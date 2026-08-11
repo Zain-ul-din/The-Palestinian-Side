@@ -1,3 +1,5 @@
+
+
 # The Palestine Side
 
 ![Stand With Palestine](https://raw.githubusercontent.com/22mahmoud/StandWithPalestine/main/public/StandWithPalestine.svg)
@@ -14,7 +16,7 @@
 
 # Contribution
 
-Your contribution, no matter how small, can make a significant impact on this project. Whether it's a single word, a bug fix, or a new feature, we welcome your input. To contribute, please visit [this page](https://github.com/Zain-ul-din/The-Palestinian-Side/issues/new/choose) to open a new issue or pull request.
+Your contribution, no matter how small, can make a significant impact on this project. Whether it's a single word, a bug fix, or a new feature, we welcome your input. To contribute, please visit [this page](https://github.com/Zain-ul-din/The-Palestine-Side/issues/new/choose) to open a new issue or pull request.
 
 Also checkout,
 
